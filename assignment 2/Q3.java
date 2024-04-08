@@ -1,3 +1,7 @@
+// 3) Write a program to implement a class coordinate with a method to display the values
+// of member variables. Use object reference variable. Compare two coordinates for
+// equality.
+
 class Coordinate {
     int x;
     int y;

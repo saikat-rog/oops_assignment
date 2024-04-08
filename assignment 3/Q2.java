@@ -1,3 +1,6 @@
+// • Write a program to check visibility of private variables in case of
+// inherited classes.
+
 class Parent {
     private int privateVar;
     

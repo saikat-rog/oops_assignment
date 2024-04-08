@@ -1,3 +1,7 @@
+// 2) Write a program to define a class student with name, roll, and marks as member
+// variables without any constructor with a method to display values of member
+// variables. Check the output of the program.
+
 class Student {
     String name;
     int roll;

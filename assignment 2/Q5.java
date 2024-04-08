@@ -1,3 +1,5 @@
+// 5) Write a program to find out the factorial of a number using recursion.
+
 public class Q5 {
     // calculate factorial
     static long calculateFactorial(int n) {

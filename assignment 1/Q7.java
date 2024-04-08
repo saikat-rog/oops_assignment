@@ -32,8 +32,8 @@ public class Q7 {
         System.out.println("6. Lowercase version of the string: " + lowerCaseString);
 
         // 7. contains() method
-        boolean containsWorld = str.contains("World");
-        System.out.println("7. Does the string contain 'World'? " + containsWorld);
+        boolean containsWord = str.contains("World");
+        System.out.println("7. Does the string contain 'World'? " + containsWord);
 
         // 8. replace() method
         String replacedString = str.replace("Hello", "Hi");

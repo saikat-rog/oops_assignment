@@ -1,3 +1,5 @@
+// Write a program to print all the armstrong numbers between 200 to 400.
+
 import java.util.*;
 class Q1{
     public static void printArmstrong(int start, int end){

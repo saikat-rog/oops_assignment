@@ -1,3 +1,5 @@
+// 7) Work with default and public member variables of a class. Set values and display values
+// from main()
 class MyClass {
     int defaultVar;
     public int publicVar;

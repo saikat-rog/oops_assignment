@@ -1,3 +1,5 @@
+// 6) Write a program to show call by reference using member variables of an object.
+
 class Point {
     int x;
     int y;

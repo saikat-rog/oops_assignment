@@ -1,6 +1,5 @@
 // Write a JAVA program apply the concept of method overriding, consider the case where Bank is a class that provides functionality to get the rate of interest. The rate of interest varies according to bank are, SBI, PNB and Bank of Baroda banks could provide 9%, 10%, and 11% rate of interest.
 
-
 class Bank {
     double getRateOfInterest() {
         return 0;

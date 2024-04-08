@@ -1,3 +1,7 @@
+// 1) Write a program to implement a class coordinate with a method to display the values
+// of member variables. Assign the values of the member variable inside the main method.
+// Use new this time.
+
 class Coordinate {
     int x;
     int y;
